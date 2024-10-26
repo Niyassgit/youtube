@@ -1,0 +1,149 @@
+.sidebar{
+
+    height: 400px;
+    width: 70px;
+    background-color: #fff;
+    position: fixed;
+    top: 55px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+    
+    
+    
+}
+.home-div{
+
+    width: 100%;
+    height: 74px;
+    cursor: pointer;
+    
+    
+}
+.home-div:hover{
+
+    background-color: rgb(222, 221, 221);
+}
+.Home-icon{
+
+    height: 25px;
+    margin-left:18px;
+}
+.subtitle-home{
+    font-size: 10px;
+    margin-left: 16px;
+    opacity: 0.9;
+}
+
+.explore-div{
+
+    width: 100%;
+    height: 74px;
+    cursor: pointer;
+    
+    
+}
+.explore-div:hover{
+    background-color: rgb(222, 221, 221);
+}
+.explore-icon{
+
+    height: 25px;
+    margin-left:18px;
+}
+
+.subtitle-explore{
+
+    font-size: 10px;
+    margin-left: 16px;
+    opacity: 0.9;
+
+}
+.subscription-div{
+    width: 100%;
+    height: 74px;
+    cursor: pointer;
+    
+}
+.subscription-div:hover{
+
+    background-color: rgb(222, 221, 221);;
+}
+.subscription-icon{
+
+    height: 25px;
+    margin-left:18px;
+
+}
+.subtitle-subscription{
+
+    font-size: 10px;
+    margin-left:4px;
+    opacity: 0.9;
+}
+.orginals-div{
+    width: 100%;
+    height: 74px;
+    cursor: pointer;
+   
+}
+.orginals-div:hover{
+
+    background-color: rgb(222, 221, 221);;
+}
+.orginals-icon{
+
+    height: 25px;
+    margin-left:18px;
+}
+.subtitle-orginals{
+
+    
+    font-size: 10px;
+    margin-left: 12px;
+    opacity: 0.9;
+}
+.youtube-div{
+
+    width: 100%;
+    height: 74px;
+    cursor: pointer;
+   
+}
+.youtube-div:hover{
+    background-color: rgb(222, 221, 221);
+}
+.youtube-icon{
+
+    height: 25px;
+    margin-left:18px;
+}
+.subtitle-youtube{
+
+    font-size: 10px;
+    opacity: 0.9;
+    
+}
+.library-div{
+
+    width:100% ;
+    height: 74px;
+    cursor: pointer;
+ 
+}
+.library-div:hover{
+    background-color:  rgb(222, 221, 221);
+}
+.library-icon{
+
+    
+    height: 25px;
+    margin-left:18px;
+}
+.subtitle-library{
+
+    font-size: 10px;
+    margin-left: 15px;
+    opacity: 0.9;
+}
